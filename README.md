@@ -8,14 +8,16 @@
 ---
 
 ### 🔥 Current Focus
-- 🌱 Building **my personal portfolio website**
+- 🌱 Building **my personal portfolio website** with React
 - 💡 Exploring **machine learning** with Python
-- � Perfecting my **C++ skills**
+- ⚙️ Perfecting my **C++ skills** (still using those `this` pointers!)
+- 📊 Learning data analysis with Pandas and NumPy
 
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
@@ -26,8 +28,13 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jias-code-05&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jias-code-05&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+### 🏆 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Jias-code-05&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ### 📫 Let's Connect!
@@ -38,6 +45,9 @@
   <a href="https://www.linkedin.com/in/wajeha-umer-032419326/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/Jias-code-05">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ### ⚡ Fun Facts
@@ -45,3 +55,4 @@
 - 🎨 I love combining programming with design
 - ☕ I believe the perfect coding session requires good coffee
 - 🚀 My dream is to contribute to space exploration tech
+- 📚 Currently reading: "Clean Code" by Robert C. Martin
