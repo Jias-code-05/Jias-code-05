@@ -8,7 +8,7 @@
 ---
 
 ### 🔥 Current Focus
-- 🌱 Building **my personal portfolio website** with React
+- 🌱 Building **my personal portfolio website**
 - 💡 Exploring **machine learning** with Python
 - ⚙️ Perfecting my **C++ skills** (still using those `this` pointers!)
 - 📊 Learning data analysis with Pandas and NumPy
